@@ -42,7 +42,7 @@
 
 ## Design Specifications
 
-The design of the DSP48A1 slice in the Spartan-6 FPGA involves several critical components and configurations, outlined as follows:
+The design of the SPI slave protocol involves several critical components and configurations, outlined as follows:
 
 
 ## Data Ports
